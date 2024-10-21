@@ -1,0 +1,19 @@
+Features of OpenNLP
+
+Named Entity Recognition (NER) − Open NLP supports NER, using which you can extract names of locations, people and things even while processing queries.
+
+Summarize − Using the summarize feature, you can summarize Paragraphs, articles, documents or their collection in NLP.
+
+Searching − In OpenNLP, a given search string or its synonyms can be identified in given text, even though the given word is altered or misspelled.
+
+Tagging (POS) − Tagging in NLP is used to divide the text into various grammatical elements for further analysis.
+
+Translation − In NLP, Translation helps in translating one language into another.
+
+Information grouping − This option in NLP groups the textual information in the content of the document, just like Parts of speech.
+
+Natural Language Generation − It is used for generating information from a database and automating the information reports such as weather analysis or medical reports.
+
+Feedback Analysis − As the name implies, various types of feedbacks from people are collected, regarding the products, by NLP to analyze how well the product is successful in winning their hearts.
+
+Speech recognition − Though it is difficult to analyze human speech, NLP has some builtin features for this requirement.
